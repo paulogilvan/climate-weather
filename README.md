@@ -11,6 +11,6 @@ Criação desse projeto envolve manipulação de API externa com requisições i
 
 #
 
-Link do projeto: <a href="https://paulogilvan.github.io/projeto-javascript/">clima-tempo</a>
+Link do projeto: <a href="https://paulogilvan.github.io/climate-weather/">clima-tempo</a>
 
 <img src="https://github.com/paulogilvan/climate-weather/blob/master/images/img-clima.png?raw=true" />
